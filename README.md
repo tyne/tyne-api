@@ -1,6 +1,6 @@
 # tyne-api
 
-[![travis-ci](https://api.travis-ci.org/tyne/tyne-api.png?branch=master)](http://travis-ci.org/#!/tyne/tyne-api) [![Dependency Status](https://gemnasium.com/tyne/tyne-api.png)](https://gemnasium.com/tyne/tyne-api) [![Code Climate](https://codeclimate.com/github/tyne/tyne-api.png)](https://codeclimate.com/github/tyne/tyne-api) [![Coverage Status](https://coveralls.io/repos/tyne/tyne-api/badge.png?branch=master)](https://coveralls.io/r/tyne/tyne-api)
+[![travis-ci](https://api.travis-ci.org/tyne/tyne-api.png?branch=master)](http://travis-ci.org/#!/tyne/tyne-api)
 
 ## Description
 
