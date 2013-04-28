@@ -9,7 +9,11 @@ gem 'rails-api'
 
 gem 'sqlite3'
 gem 'yard'
-gem 'rspec-rails'
+
+group :test, :development do
+  gem 'rspec-rails'
+  gem 'guard-rspec'
+end
 
 
 # To use ActiveModel has_secure_password
