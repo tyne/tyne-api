@@ -4,10 +4,6 @@ rvm:
 script:
   - DISPLAY=:99.0 ./script/ci
 before_install:
-  - git submodule update --init --recursive
-  - "export DISPLAY=:99.0"
-  - "sh -e /etc/init.d/xvfb start"
-  - "cp config/tyne.yml.template config/tyne.yml"
   - "cp config/database.yml.template config/database.yml"
 env:
   global:
